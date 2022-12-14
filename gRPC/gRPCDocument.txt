@@ -3,3 +3,12 @@ Youtube links
 https://www.youtube.com/watch?v=0yDaLgrA7yo
 
 https://www.youtube.com/watch?v=CXH_jEa8dUw
+
+A Complete Guide to gRPC-Web with Angular and .NET
+https://github.com/edisnezir/grpc-demo
+
+https://hammad-ulhaq.medium.com/5-reasons-to-use-grpc-web-over-rest-a8d442070c2a
+
+https://www.altexsoft.com/blog/what-is-grpc/
+
+https://www.youtube.com/watch?v=E27URR2Nd4c
