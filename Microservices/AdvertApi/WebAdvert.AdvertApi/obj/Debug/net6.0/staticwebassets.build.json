@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l48aTBgLuTa+dcLM+POhTftSULBklgEykFWWeJj7GIM=",
+  "Source": "WebAdvert.AdvertApi",
+  "BasePath": "_content/WebAdvert.AdvertApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
